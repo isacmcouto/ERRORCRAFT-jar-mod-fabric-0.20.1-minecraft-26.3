@@ -28,7 +28,7 @@ Antes de instalar o mod, certifique-se de ter:
 
 ## ✨ Recursos e Funcionalidades
 
-*(Edite esta seção descrevendo o que o seu mod adiciona ou modifica no jogo)*
+
 
 * **Novos blocos:(errorcraft:glitch_block)**
 * **Mecânicas:** adciona sustos e blocos entidade e personaliza o menu
